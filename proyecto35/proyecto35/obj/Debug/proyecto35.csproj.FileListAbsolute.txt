@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto35\proyecto35\bin\Debug\proyecto35.exe.config
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto35\proyecto35\bin\Debug\proyecto35.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto35\proyecto35\bin\Debug\proyecto35.pdb
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto35\proyecto35\obj\Debug\proyecto35.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto35\proyecto35\obj\Debug\proyecto35.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto35\proyecto35\obj\Debug\proyecto35.pdb
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto35\proyecto35\obj\Debug\proyecto35.csproj.AssemblyReference.cache

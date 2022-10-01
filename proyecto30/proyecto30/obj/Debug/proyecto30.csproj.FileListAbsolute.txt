@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto30\proyecto30\bin\Debug\proyecto30.exe.config
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto30\proyecto30\bin\Debug\proyecto30.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto30\proyecto30\bin\Debug\proyecto30.pdb
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto30\proyecto30\obj\Debug\proyecto30.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto30\proyecto30\obj\Debug\proyecto30.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto30\proyecto30\obj\Debug\proyecto30.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto30\proyecto30\obj\Debug\proyecto30.pdb

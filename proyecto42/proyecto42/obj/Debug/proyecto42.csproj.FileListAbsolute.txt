@@ -1,0 +1,6 @@
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto42\proyecto42\obj\Debug\proyecto42.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto42\proyecto42\bin\Debug\proyecto42.exe.config
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto42\proyecto42\bin\Debug\proyecto42.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto42\proyecto42\bin\Debug\proyecto42.pdb
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto42\proyecto42\obj\Debug\proyecto42.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto42\proyecto42\obj\Debug\proyecto42.pdb

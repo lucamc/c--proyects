@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto37\proyecto37\bin\Debug\proyecto37.exe.config
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto37\proyecto37\bin\Debug\proyecto37.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto37\proyecto37\bin\Debug\proyecto37.pdb
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto37\proyecto37\obj\Debug\proyecto37.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto37\proyecto37\obj\Debug\proyecto37.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto37\proyecto37\obj\Debug\proyecto37.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto37\proyecto37\obj\Debug\proyecto37.pdb

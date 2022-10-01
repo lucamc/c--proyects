@@ -1,0 +1,8 @@
+C:\Users\lucas\OneDrive\Escritorio\csharp\proyecto11\proyecto11\bin\Debug\proyecto11.exe.config
+C:\Users\lucas\OneDrive\Escritorio\csharp\proyecto11\proyecto11\bin\Debug\proyecto11.exe
+C:\Users\lucas\OneDrive\Escritorio\csharp\proyecto11\proyecto11\bin\Debug\proyecto11.pdb
+C:\Users\lucas\OneDrive\Escritorio\csharp\proyecto11\proyecto11\obj\Debug\proyecto11.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\csharp\proyecto11\proyecto11\obj\Debug\proyecto11.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Escritorio\csharp\proyecto11\proyecto11\obj\Debug\proyecto11.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\csharp\proyecto11\proyecto11\obj\Debug\proyecto11.exe
+C:\Users\lucas\OneDrive\Escritorio\csharp\proyecto11\proyecto11\obj\Debug\proyecto11.pdb

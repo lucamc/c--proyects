@@ -1,0 +1,6 @@
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto43\proyecto43\bin\Debug\proyecto43.exe.config
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto43\proyecto43\bin\Debug\proyecto43.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto43\proyecto43\bin\Debug\proyecto43.pdb
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto43\proyecto43\obj\Debug\proyecto43.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto43\proyecto43\obj\Debug\proyecto43.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto43\proyecto43\obj\Debug\proyecto43.pdb

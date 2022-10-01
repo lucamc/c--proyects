@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto46\proyecto46\bin\Debug\proyecto46.exe.config
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto46\proyecto46\bin\Debug\proyecto46.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto46\proyecto46\bin\Debug\proyecto46.pdb
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto46\proyecto46\obj\Debug\proyecto46.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto46\proyecto46\obj\Debug\proyecto46.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto46\proyecto46\obj\Debug\proyecto46.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto46\proyecto46\obj\Debug\proyecto46.pdb

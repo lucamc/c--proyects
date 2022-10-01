@@ -1,0 +1,8 @@
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto18\proyecto18\bin\Debug\proyecto18.exe.config
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto18\proyecto18\bin\Debug\proyecto18.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto18\proyecto18\bin\Debug\proyecto18.pdb
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto18\proyecto18\obj\Debug\proyecto18.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto18\proyecto18\obj\Debug\proyecto18.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto18\proyecto18\obj\Debug\proyecto18.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto18\proyecto18\obj\Debug\proyecto18.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyecto18\proyecto18\obj\Debug\proyecto18.pdb
