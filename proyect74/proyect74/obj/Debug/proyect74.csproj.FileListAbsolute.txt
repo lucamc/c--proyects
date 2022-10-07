@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyect74\proyect74\bin\Debug\proyect74.exe.config
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyect74\proyect74\bin\Debug\proyect74.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyect74\proyect74\bin\Debug\proyect74.pdb
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyect74\proyect74\obj\Debug\proyect74.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyect74\proyect74\obj\Debug\proyect74.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyect74\proyect74\obj\Debug\proyect74.exe
+C:\Users\lucas\OneDrive\Escritorio\programacion csharp\csharp\proyect74\proyect74\obj\Debug\proyect74.pdb
